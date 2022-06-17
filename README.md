@@ -32,6 +32,9 @@ So Before running the project make sure you are installed the below softwares on
 Please let me know if you are getting any trouble OR IF YOU NEED ANY HELP
 
 
+PLEASE REMOVE THE DATABASE FILE(todo_list.sql) FROM YOUR PROJECT ONCE YOU FINISHED THE IMPORT
+
+
 THANK YOU. HAVE A NICE DAY
 
 
