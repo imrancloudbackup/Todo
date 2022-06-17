@@ -1,3 +1,61 @@
+Good Morning Team,
+
+This project is created by using the Laravel Framework.
+
+So Before running the project make sure you are installed the below softwares on your system:
+
+1. Node js(https://nodejs.org/en/download/)
+2. Composer(https://getcomposer.org/download/)
+3. Any Code Editor(https://code.visualstudio.com/download)
+4. WAMP server or XAMPP server(https://www.wampserver.com/en/ or https://www.apachefriends.org/) - For Database
+5. Put the downloaded github code inside the c:/wamp/www/(or your wamp installed path) folder or xampp (installed path / htdocs)
+6. open the commandprompt and go to the location where you placed the project. Ex: C:wamp\www\todolist
+7. turn on the wamp server and go to the browser and enter the localhost/phpmyadmin then create a new database with the name of todo_list.
+8. run the project by using the following command 
+   1. php artisan optimize
+   2. php artisan migrate
+   3. php artisan serve(After run this command you will get 127.0.0.1 like this type of address in your command prompt. copy and paste this address in your browser)
+9. Create a new registration by using your details by clicking create account link from login page.
+10.Login inside and create your todo list.
+11.Todo list is based on the user. This todo list is created with multi user access. For example: If you are login then it shows only your todo list and if your friend login then it shows only your friend todo list.
+
+
+
+==================================================================OR============================================================
+
+1. HOST THE PROJECT ON THE LIVE SERVER
+2. CREATE A DATA BASE IN THE LIVE SERVER
+3. IMPORT THE ATTACHED DATABASE FILE IN YOUR MYSQL(PHP MY ADMIN)
+4. GO TO YOUR WEB ADDRESS
+5. CREATE REGISTRATION AND CREATE YOUR TODO LIST
+
+Please let me know if you are getting any trouble OR IF YOU NEED ANY HELP
+
+
+THANK YOU. HAVE A NICE DAY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
